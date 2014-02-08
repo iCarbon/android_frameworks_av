@@ -750,6 +750,11 @@ public:
     //Redeye Reduction
     static const char KEY_REDEYE_REDUCTION[];
     static const char KEY_SUPPORTED_REDEYE_REDUCTION[];
+    
+    // the  xiaomi stuff
+     static const char KEY_GAMMA[];
+     static const char KEY_CONVERSION[];
+     static const char KEY_MATRIX[];
 #endif
 
     // Values for white balance settings.
